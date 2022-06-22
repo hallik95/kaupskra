@@ -1,2 +1,2 @@
-# kaupskra
-Fasteignamarkaður 
+# MI
+Market Intelligence
